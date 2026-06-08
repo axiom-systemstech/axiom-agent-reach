@@ -1,0 +1,9 @@
+{
+  "name": "axiom-agent-reach",
+  "version": "1.0.0",
+  "description": "Client-side simulation framework for agentic web navigation",
+  "main": "reach.js",
+  "type": "module",
+  "dependencies": {}
+}
+
