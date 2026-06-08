@@ -23,3 +23,4 @@ console.log(extractionLog);
 ```bash
 npm install
 ```
+3.Pipe the clean tactical outputs directly into your local LLM context or database indices.
