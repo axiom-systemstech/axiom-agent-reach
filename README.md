@@ -16,3 +16,10 @@ import { simulateNavigation } from './reach.js';
 const extractionLog = simulateNavigation("[https://x.com/trends/ai](https://x.com/trends/ai)", "twitter");
 console.log(extractionLog);
 ```
+## 🛠️ Quickstart
+1.​Clone the repository into your secure automation environment.
+
+2.​Initialize local dependencies:
+```bash
+npm install
+```
