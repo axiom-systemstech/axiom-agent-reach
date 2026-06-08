@@ -1,0 +1,22 @@
+{
+  "name": "Axiom Agent-Reach — Agentic Vision",
+  "short_name": "Agent-Reach",
+  "description": "Navegación y extracción de datos 100% local. Visión agentica sin APIs ni huella externa.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#040508",
+  "theme_color": "#040508",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
